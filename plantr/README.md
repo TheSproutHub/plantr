@@ -61,6 +61,8 @@ api data
 4. App and html
 ...
 
+## Diagram Link SQL database
+https://drawsql.app/teams/photogenicus7/diagrams/plantr 
 
 
 
