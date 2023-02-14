@@ -65,10 +65,19 @@ api data
 https://drawsql.app/teams/photogenicus7/diagrams/plantr 
 
 
+## API
+
+Plant Hardiness Zone: https://rapidapi.com/fireside-worldwide-fireside-worldwide-default/api/plant-hardiness-zone/details 
+USDA Plant Hardiness Zone Map: https://planthardiness.ars.usda.gov/ 
+
+Vegetables: https://www.growstuff.org/api-docs/index.html
 
 
+Perenual API: https://perenual.com/docs/api
+perenual.com/api/species-list?page=1&key=[sk-pAbh63ebe77c9f26e54] 
+perenual.com/api/species/details/[ID]?key=[YOUR-API-KEY]
+Perenual KEY: sk-pAbh63ebe77c9f26e54
 
 
-
-
-
+Trefle ACCESS TOKEN: AiwbKzLFmn-d6BuBNEX4hXzR2dAqHRw9AQxmuX359nA 
+API URL: https://trefle.io/api/v1/plants?token=AiwbKzLFmn-d6BuBNEX4hXzR2dAqHRw9AQxmuX359nA' 
